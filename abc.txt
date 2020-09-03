@@ -3,3 +3,5 @@ ajdb
 lan 1 da~ commit
 
 lan 6
+
+lan 7 cua master
