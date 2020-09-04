@@ -1,0 +1,6 @@
+git add .
+git commit -m "comment cua may`"
+git branch <tenbranch>
+git log --oneline
+git checkout <tenbranch>
+clear
